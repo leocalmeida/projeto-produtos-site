@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projeto-produtos-site/static/css/main.f9ef1922.css",
+    "main.js": "/projeto-produtos-site/static/js/main.5ae10cfd.js",
+    "static/media/contato.jpg": "/projeto-produtos-site/static/media/contato.1bd9bf2dc50673043059.jpg",
+    "index.html": "/projeto-produtos-site/index.html",
+    "main.f9ef1922.css.map": "/projeto-produtos-site/static/css/main.f9ef1922.css.map",
+    "main.5ae10cfd.js.map": "/projeto-produtos-site/static/js/main.5ae10cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9ef1922.css",
+    "static/js/main.5ae10cfd.js"
+  ]
+}
